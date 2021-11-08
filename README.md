@@ -2,8 +2,8 @@
 Numpy, Pandas, sckit-learn,keras
 
 ## About the Project
-This project utilises a 3-layered neural network to predict the the cost of the car based on number of factors 
-During the Data-exploration the plots highly suggested that a linear model would suit this data hence a linear model is also applied here
+1) This project utilises a 3-layered neural network to predict the the cost of the car based on number of factors 
+2) During the Data-exploration the plots highly suggested that a linear model would suit this data hence a linear model is also applied here
 
 ## Key Observations
 1) Due to the small size of the data-set large number of settings and various settings could be explored which cannot occur on larger datsets
